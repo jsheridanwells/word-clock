@@ -1,0 +1,20 @@
+body {
+	background-color: #333;
+}
+.main-div {
+	font-family: sans-serif;
+	font-size: 200%;
+	color: white;
+}
+.its {
+	padding-left: 50px;
+}
+.min {
+	font-size: 250%;
+	color: pink;
+}
+.hour {
+	padding-left: 100px;
+	font-size: 350%;
+	color: cadetblue;
+}
